@@ -28,14 +28,17 @@ This algorithm laid the foundation for modern raster graphics. Pretty cool!
 cd bresenham-opengl
 ```
 2. Compile: (this example uses g++)
-```g++ main.cpp -o bresenham -lglfw -ldl -lGL```
-3. Ensure vertex_shader.glsl and fragment_shader.glsl are in the same folder as the executable.
+```
+g++ main.cpp -o bresenham -lglfw -ldl -lGL
+```
+4. Ensure vertex_shader.glsl and fragment_shader.glsl are in the same folder as the executable.
 
 # Running
 
 ```./bresenham```
-Press ESC to close the window
-Observe the moving line
+
+- Press ESC to close the window
+- Observe the moving line
 
 # Bresenham Line Algorithm
 
