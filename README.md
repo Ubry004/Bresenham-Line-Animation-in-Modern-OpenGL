@@ -15,11 +15,11 @@ This algorithm laid the foundation for modern raster graphics. Pretty cool!
 
 # Prerequisites
 
-C++17 compiler
-GLFW
-GLAD
-GLM
-stb_image.h (not really but I'm using a template I made for VS that includes this)
+- C++17 compiler
+- GLFW
+- GLAD
+- GLM
+- stb_image.h (not really but I'm using a template I made for VS that includes this)
 
 # Building
 
