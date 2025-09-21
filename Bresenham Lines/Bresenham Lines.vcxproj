@@ -21,10 +21,6 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Documents\C++ Libraries\OpenGL\include\glad.c" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="stb.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\C++ Libraries\OpenGL\include\stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="fragment_shader.glsl" />
